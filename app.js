@@ -970,7 +970,8 @@ window.installPWA = async function() {
   }
 };
 
-\n
+
+
 
 /* ══════════════════════════════
    QURAN READER
